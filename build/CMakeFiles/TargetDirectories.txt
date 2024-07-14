@@ -1,0 +1,6 @@
+/Users/rupakkarki/Desktop/project/build/CMakeFiles/register.dir
+/Users/rupakkarki/Desktop/project/build/CMakeFiles/login.dir
+/Users/rupakkarki/Desktop/project/build/CMakeFiles/bmi_calculator.dir
+/Users/rupakkarki/Desktop/project/build/CMakeFiles/planning.dir
+/Users/rupakkarki/Desktop/project/build/CMakeFiles/edit_cache.dir
+/Users/rupakkarki/Desktop/project/build/CMakeFiles/rebuild_cache.dir
